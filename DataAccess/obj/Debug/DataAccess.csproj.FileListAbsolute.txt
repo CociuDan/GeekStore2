@@ -1,0 +1,11 @@
+F:\Tekwill\GeekStore-master\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\DataAccess.dll
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\DataAccess.pdb
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\GeekStoreInfrastructure.dll
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\StorageInterface.dll
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\WareHouse.dll
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\GeekStoreInfrastructure.pdb
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\StorageInterface.pdb
+F:\Tekwill\GeekStore-master\DataAccess\bin\Debug\WareHouse.pdb
+F:\Tekwill\GeekStore-master\DataAccess\obj\Debug\DataAccess.dll
+F:\Tekwill\GeekStore-master\DataAccess\obj\Debug\DataAccess.pdb

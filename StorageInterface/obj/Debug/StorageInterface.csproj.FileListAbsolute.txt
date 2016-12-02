@@ -1,0 +1,7 @@
+F:\Tekwill\GeekStore-master\StorageInterface\bin\Debug\StorageInterface.dll
+F:\Tekwill\GeekStore-master\StorageInterface\bin\Debug\StorageInterface.pdb
+F:\Tekwill\GeekStore-master\StorageInterface\bin\Debug\GeekStoreInfrastructure.dll
+F:\Tekwill\GeekStore-master\StorageInterface\bin\Debug\GeekStoreInfrastructure.pdb
+F:\Tekwill\GeekStore-master\StorageInterface\obj\Debug\StorageInterface.csprojResolveAssemblyReference.cache
+F:\Tekwill\GeekStore-master\StorageInterface\obj\Debug\StorageInterface.dll
+F:\Tekwill\GeekStore-master\StorageInterface\obj\Debug\StorageInterface.pdb

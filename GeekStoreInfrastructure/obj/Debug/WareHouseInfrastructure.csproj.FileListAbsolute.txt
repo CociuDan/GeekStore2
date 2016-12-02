@@ -1,0 +1,5 @@
+F:\Tekwill\GeekStore-master\GeekStoreInfrastructure\bin\Debug\GeekStoreInfrastructure.dll
+F:\Tekwill\GeekStore-master\GeekStoreInfrastructure\bin\Debug\GeekStoreInfrastructure.pdb
+F:\Tekwill\GeekStore-master\GeekStoreInfrastructure\obj\Debug\GeekStoreInfrastructure.dll
+F:\Tekwill\GeekStore-master\GeekStoreInfrastructure\obj\Debug\GeekStoreInfrastructure.pdb
+F:\Tekwill\GeekStore-master\GeekStoreInfrastructure\obj\Debug\WareHouseInfrastructure.csprojResolveAssemblyReference.cache

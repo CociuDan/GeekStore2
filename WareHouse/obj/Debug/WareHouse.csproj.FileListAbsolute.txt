@@ -1,0 +1,7 @@
+F:\Tekwill\GeekStore-master\WareHouse\bin\Debug\WareHouse.dll
+F:\Tekwill\GeekStore-master\WareHouse\bin\Debug\WareHouse.pdb
+F:\Tekwill\GeekStore-master\WareHouse\bin\Debug\GeekStoreInfrastructure.dll
+F:\Tekwill\GeekStore-master\WareHouse\bin\Debug\GeekStoreInfrastructure.pdb
+F:\Tekwill\GeekStore-master\WareHouse\obj\Debug\WareHouse.csprojResolveAssemblyReference.cache
+F:\Tekwill\GeekStore-master\WareHouse\obj\Debug\WareHouse.dll
+F:\Tekwill\GeekStore-master\WareHouse\obj\Debug\WareHouse.pdb

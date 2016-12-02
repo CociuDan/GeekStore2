@@ -1,0 +1,11 @@
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\StorageImplimentation.dll
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\StorageImplimentation.pdb
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\GeekStoreInfrastructure.dll
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\Newtonsoft.Json.dll
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\StorageInterface.dll
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\GeekStoreInfrastructure.pdb
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\StorageInterface.pdb
+F:\Tekwill\GeekStore-master\StorageImplimentation\bin\Debug\Newtonsoft.Json.xml
+F:\Tekwill\GeekStore-master\StorageImplimentation\obj\Debug\StorageImplimentation.csprojResolveAssemblyReference.cache
+F:\Tekwill\GeekStore-master\StorageImplimentation\obj\Debug\StorageImplimentation.dll
+F:\Tekwill\GeekStore-master\StorageImplimentation\obj\Debug\StorageImplimentation.pdb
